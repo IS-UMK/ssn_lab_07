@@ -3,8 +3,8 @@
 Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
 
 
-Notatnik: [07_hebb.ipynb](https://github.com/IS-UMK/ssn_23_lab_07/blob/master/07_hebb.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/ssn_23_lab_07/blob/master/07_hebb.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/ssn_23_lab_07/master?filepath=07_hebb.ipynb)
+Notatnik: [07_hebb.ipynb](https://github.com/IS-UMK/ssn_lab_07/blob/master/07_hebb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/ssn_lab_07/blob/master/07_hebb.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/ssn_lab_07/master?filepath=07_hebb.ipynb)
 
 ---
 
