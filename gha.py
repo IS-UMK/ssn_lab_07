@@ -2,10 +2,10 @@ import numpy as np
 
 class GHA(object):
     
-    def __init__(self, n_components=1, eta=0.01, epochs=100):
+    def __init__(self, n_components=1, eta=0.001, n_epochs=100):
         self.eta = eta
         self.n_components = n_components
-        self.epochs = epochs
+        self.n_epochs = n_epochs
         
     def init(self, X):
         # TODO inicjuj macierz wag self.W o kształcie [n_components, ilość zmiennych ] 
